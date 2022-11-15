@@ -5,6 +5,14 @@
 **Author**: Jason Bryer, Ph.D. jason.bryer@cuny.edu  
 **Conference Page**: https://onlinelearningconsortium.org/olc-accelerate-2022-session-page/?session=11643
 
+### Brief Abstract
+
+This session will provide resources and strategies for instructors to directly assess and address students’ self-regulated learning, efficacy, and anxiety. Drawing from my experience teaching college statistics, these strategies can be adapted to other disciplines.
+
+Template for the Shiny Poster used to present available here: https://github.com/jbryer/ShinyPoster
+
+________________________________________________________________________________
+### Extended Abstract
 
 For students to be successful in online learning environments they need to be self-motivated and goal-directed, making effective use of learning strategies for learning and for managing competing demands. These are the cornerstone qualities of self-regulated learners (Zimmerman et al., 2011; Zimmerman & Schunk). Students who possess these skills are much more likely to be successful (Efklides, 2011; Winne & Hadwin, 1998; Zimmerman, 2000). Given the demands on course content, learning objectives, and outcomes, instructors rarely explicitly address students’ self-regulatory strategy use (Dignath-van Ewijk & Van der Werf, 2012). Moreover, students’ self-efficacy is a significant contributor and predictor of success (Bandura, 1993). These effects are often more pronounced within mathematics, statistics, or other STEM courses (see e.g. Nunez-Pena, Suarez-Pellicioni, & Bono, 2013).
 

@@ -3,3 +3,5 @@
 .Rdata
 .httr-oauth
 .DS_Store
+/Data-Raw/*.rds
+/Users/jbryer/Dropbox (Personal)/Projects/OLCAccelerate2022/shiny_formative/.secrets
