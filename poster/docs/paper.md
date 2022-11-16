@@ -1,20 +1,10 @@
 # Strategies for Supporting Students' Self-Regulated Learning within the Course
 
-**Author**: Jason Bryer, Ph.D. [jason.bryer@cuny.edu](mailto:jason.bryer@cuny.edu)  
+[OLC Accelerate 2022](https://onlinelearningconsortium.org/olc-accelerate-2022-session-page/?session=11643)
+
+**Author**: Jason Bryer, Ph.D. jason.bryer@cuny.edu  
 **Conference Page**: https://onlinelearningconsortium.org/olc-accelerate-2022-session-page/?session=11643
 
-![Poster Screenshot](poster_screenshot.png)
-
-
-
-### Brief Abstract
-
-This session will provide resources and strategies for instructors to directly assess and address students’ self-regulated learning, efficacy, and anxiety. Drawing from my experience teaching college statistics, these strategies can be adapted to other disciplines.
-
-Template for the Shiny Poster used to present available here: https://github.com/jbryer/ShinyPoster
-
-________________________________________________________________________________
-### Extended Abstract
 
 For students to be successful in online learning environments they need to be self-motivated and goal-directed, making effective use of learning strategies for learning and for managing competing demands. These are the cornerstone qualities of self-regulated learners (Zimmerman et al., 2011; Zimmerman & Schunk). Students who possess these skills are much more likely to be successful (Efklides, 2011; Winne & Hadwin, 1998; Zimmerman, 2000). Given the demands on course content, learning objectives, and outcomes, instructors rarely explicitly address students’ self-regulatory strategy use (Dignath-van Ewijk & Van der Werf, 2012). Moreover, students’ self-efficacy is a significant contributor and predictor of success (Bandura, 1993). These effects are often more pronounced within mathematics, statistics, or other STEM courses (see e.g. Nunez-Pena, Suarez-Pellicioni, & Bono, 2013).
 
@@ -53,3 +43,23 @@ Zimmerman, B. J., & Schunk, D. H. (2011). Self-regulated learning and performanc
 Zimmerman, B. J., Moylan, A., Hudesman, J., White, N., & Flugman, B. (2011). Enhancing self-reflection and mathematics achievement of at-risk urban technical college students. *Psychological Test and Assessment Modeling, 53*(1), 141-160.  
 
 Zimmerman, B.J. (2000). Attaining self-regulation: A social-cognitive perspective. In M. Boekaerts, P. Pintrich, & M. Zeidner (Eds.), *Self-regulation: Theory, research, and applications* (pp. 13-39). Academic Press.
+
+## Appendix
+
+### Mathematics Anxiety Survey Scale
+
+1. I find math interesting.
+2. I get uptight during math tests.
+3. I think that I will use math in the future.
+4. Mind goes blank and I am unable to think clearly when doing my math test.
+5. Math relates to my life.	
+6. I worry about my ability to solve math problems.
+7. I get a sinking feeling when I try to do math problems.
+8. I find math challenging.
+9. Mathematics makes me feel nervous.
+10. I would like to take more math classes.
+11. Mathematics makes me feel uneasy.
+12. Math is one of my favorite subjects.
+13. I enjoy learning with mathematics.
+14. Mathematics makes me feel confused.'
+

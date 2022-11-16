@@ -5,3 +5,4 @@
 .DS_Store
 /Data-Raw/*.rds
 /shiny_formative/.secrets
+/poster/.secrets

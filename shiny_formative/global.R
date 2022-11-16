@@ -3,8 +3,6 @@ library(googlesheets4)
 library(DT)
 library(likert)
 
-source('word_cloud.R')
-
 # See setup.R for creating the .secrets folder.
 gs4_auth(cache = '.secrets', email = "jason.bryer@gmail.com")
 
