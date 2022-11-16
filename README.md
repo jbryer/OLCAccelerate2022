@@ -1,7 +1,8 @@
 # Strategies for Supporting Students' Self-Regulated Learning within the Course
 
 **Author**: Jason Bryer, Ph.D. [jason.bryer@cuny.edu](mailto:jason.bryer@cuny.edu)  
-**Conference Page**: https://onlinelearningconsortium.org/olc-accelerate-2022-session-page/?session=11643
+**Conference Page**: https://onlinelearningconsortium.org/olc-accelerate-2022-session-page/?session=11643  
+**Poster**: https://r.bryer.org/shiny/OLCAccelerate2022/
 
 ![Poster Screenshot](poster_screenshot.png)
 
