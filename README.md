@@ -7,11 +7,21 @@
 
 
 
+________________________________________________________________________________
 ### Brief Abstract
 
 This session will provide resources and strategies for instructors to directly assess and address students’ self-regulated learning, efficacy, and anxiety. Drawing from my experience teaching college statistics, these strategies can be adapted to other disciplines.
 
-Template for the Shiny Poster used to present available here: https://github.com/jbryer/ShinyPoster
+________________________________________________________________________________
+### Technical Details
+
+The [`/poster`](poster/) directory contains the R code to create the poster (see screenshot above). Template for the Shiny Poster used to present available here: https://github.com/jbryer/ShinyPoster The [`shiny_formative/`](shiny_formative/) directory contains a Shiny app that downloads the formative assessment and one minute paper results from Google and does some minimal analysis. I use this when preparing the course (using the formative results) and each class (using the one minute paper results).
+
+**Google Forms** - Each semester I create a copy of these to Google Forms.
+
+* [Formative Assessment](https://docs.google.com/forms/d/e/1FAIpQLSeO1LHi4j5c19ZcS73L0pfDxNJpXEpdxu5BpqhtiHRSC9X6FQ/viewform?usp=sharing) - This is a template for the formative assessment given at the start of the course. This is designed for a statistics course so it should be modified for your particular subject matter. At a minimum I suggest measuring affect, self-efficacy, and anxiety for your subject.
+
+* [One Minute Paper Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeo3JIYbF32ihFCTTMf4kkwyIKGzGVmY1Nu9iz5jGRKmSicMw/viewform?usp=sharing) - This is a template to use for the one minute papers. You can copy this into your own account and modify as appropatie.
 
 ________________________________________________________________________________
 ### Extended Abstract
